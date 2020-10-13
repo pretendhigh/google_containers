@@ -1,3 +1,4 @@
 # google_containers
 
-transfer gcr.io/google_containers to github
+transfer image from gcr.io/google_containers to docker hub
+transfer image from k8s.gcr.io to docker hub
